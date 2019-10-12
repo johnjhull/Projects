@@ -11,4 +11,4 @@ A notebook used to demonstrate how vector embeddings can be used for domain spec
 
 ### RL Bandit Coding:
 
-This notebook executes most of the methods for solving the associative k-armed bandit problem outlined in Sutton and Barto, *Reinforcement Learning, An Introduction*. Includes object-oriented experiment class.
+This notebook executes most of the methods for solving the associative k-armed bandit problem outlined in Sutton and Barto, *Reinforcement Learning, An Introduction*. Includes object-oriented experiment code.
