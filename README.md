@@ -17,3 +17,7 @@ An algorithm for detecting outliers in gas data for data cleaning/processing pur
 ### RL Bandit Coding:
 
 This notebook executes most of the methods for solving the associative k-armed bandit problem outlined in Sutton and Barto, *Reinforcement Learning, An Introduction*. Includes object-oriented experiment code.
+
+### Text to Time Series
+
+This notebook is a demonstration of how text data can be viewed as time-series information.  To run the notebook as it is shown, download mobydick.txt into your working directory as well. 
